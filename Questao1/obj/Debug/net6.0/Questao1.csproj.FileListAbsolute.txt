@@ -1,0 +1,15 @@
+/Users/leonardomsilva/Downloads/Teste-Nivelamento-Desenvolvedor-CSharp-API-v2 (1)/Questao1/bin/Debug/net6.0/Questao1
+/Users/leonardomsilva/Downloads/Teste-Nivelamento-Desenvolvedor-CSharp-API-v2 (1)/Questao1/bin/Debug/net6.0/Questao1.deps.json
+/Users/leonardomsilva/Downloads/Teste-Nivelamento-Desenvolvedor-CSharp-API-v2 (1)/Questao1/bin/Debug/net6.0/Questao1.runtimeconfig.json
+/Users/leonardomsilva/Downloads/Teste-Nivelamento-Desenvolvedor-CSharp-API-v2 (1)/Questao1/bin/Debug/net6.0/Questao1.dll
+/Users/leonardomsilva/Downloads/Teste-Nivelamento-Desenvolvedor-CSharp-API-v2 (1)/Questao1/bin/Debug/net6.0/Questao1.pdb
+/Users/leonardomsilva/Downloads/Teste-Nivelamento-Desenvolvedor-CSharp-API-v2 (1)/Questao1/obj/Debug/net6.0/Questao1.csproj.AssemblyReference.cache
+/Users/leonardomsilva/Downloads/Teste-Nivelamento-Desenvolvedor-CSharp-API-v2 (1)/Questao1/obj/Debug/net6.0/Questao1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leonardomsilva/Downloads/Teste-Nivelamento-Desenvolvedor-CSharp-API-v2 (1)/Questao1/obj/Debug/net6.0/Questao1.AssemblyInfoInputs.cache
+/Users/leonardomsilva/Downloads/Teste-Nivelamento-Desenvolvedor-CSharp-API-v2 (1)/Questao1/obj/Debug/net6.0/Questao1.AssemblyInfo.cs
+/Users/leonardomsilva/Downloads/Teste-Nivelamento-Desenvolvedor-CSharp-API-v2 (1)/Questao1/obj/Debug/net6.0/Questao1.csproj.CoreCompileInputs.cache
+/Users/leonardomsilva/Downloads/Teste-Nivelamento-Desenvolvedor-CSharp-API-v2 (1)/Questao1/obj/Debug/net6.0/Questao1.dll
+/Users/leonardomsilva/Downloads/Teste-Nivelamento-Desenvolvedor-CSharp-API-v2 (1)/Questao1/obj/Debug/net6.0/refint/Questao1.dll
+/Users/leonardomsilva/Downloads/Teste-Nivelamento-Desenvolvedor-CSharp-API-v2 (1)/Questao1/obj/Debug/net6.0/Questao1.pdb
+/Users/leonardomsilva/Downloads/Teste-Nivelamento-Desenvolvedor-CSharp-API-v2 (1)/Questao1/obj/Debug/net6.0/Questao1.genruntimeconfig.cache
+/Users/leonardomsilva/Downloads/Teste-Nivelamento-Desenvolvedor-CSharp-API-v2 (1)/Questao1/obj/Debug/net6.0/ref/Questao1.dll

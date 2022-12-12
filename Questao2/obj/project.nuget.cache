@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "t5r+3N00V8CjuMPfMluNcl04L/M/9GY5Yw39vihMC1tBUR+BXmPCCam9slW40ipGI4PI2FauaqKkQ+9fQCHxbw==",
+  "success": true,
+  "projectFilePath": "/Users/leonardomsilva/Downloads/Teste-Nivelamento-Desenvolvedor-CSharp-API-v2 (1)/Questao2/Questao2.csproj",
+  "expectedPackageFiles": [
+    "/Users/leonardomsilva/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
