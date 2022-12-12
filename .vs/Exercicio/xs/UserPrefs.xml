@@ -1,6 +1,52 @@
 ﻿<Properties StartupConfiguration="{7B665AB7-6063-4EA5-A851-E41DBBE01242}|Default" GitUserInfo="UsingMD">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.Questao1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Questao1/ContaBancaria.cs">
+    <Files>
+      <File FileName="Questao1/ContaBancaria.cs" Line="39" Column="1" />
+      <File FileName="Questao1/Program.cs" Line="25" Column="1" />
+      <File FileName="../../../../usr/local/share/dotnet/sdk/6.0.400/Microsoft.Common.CurrentVersion.targets" Line="4632" Column="5" />
+      <File FileName="Questao2/Program.cs" Line="25" Column="6" />
+      <File FileName="Questao2/Entidade/Clubes.cs" Line="23" Column="32" />
+      <File FileName="Questao2/ApiClient/TeamClientApi.cs" Line="21" Column="9" />
+      <File FileName="Questao5/Program.cs" Line="26" Column="24" />
+      <File FileName="Questao5/WeatherForecast.cs" Line="1" Column="1" />
+      <File FileName="Questao5/Infrastructure/Services/Controllers/WeatherForecastController.cs" Line="1" Column="1" />
+      <File FileName="Questao5/Infrastructure/Sqlite/DatabaseBootstrap.cs" Line="13" Column="10" />
+      <File FileName="Questao5/Infrastructure/Sqlite/DatabaseConfig.cs" Line="1" Column="1" />
+      <File FileName="Questao5/Infrastructure/Sqlite/IDatabaseBootstrap.cs" Line="1" Column="1" />
+      <File FileName="Questao5/appsettings.json" Line="11" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Exercicio" expanded="True">
+            <Node name="Questao4" expanded="True" />
+            <Node name="Solution Items" expanded="True" />
+            <Node name="Questao1" expanded="True">
+              <Node name="ContaBancaria.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Exercicio" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.Questao2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/leonardomsilva/Downloads/Teste-Nivelamento-Desenvolvedor-CSharp-API-v2 (1)/Questao1/Program.cs" relfile="Questao1/Program.cs" line="25" column="1" />
+      <Breakpoint file="/Users/leonardomsilva/Downloads/Teste-Nivelamento-Desenvolvedor-CSharp-API-v2 (1)/Questao2/Program.cs" relfile="Questao2/Program.cs" line="26" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.Questao5 PreferredExecutionTarget="/Applications/Google Chrome.app" />
 </Properties>
