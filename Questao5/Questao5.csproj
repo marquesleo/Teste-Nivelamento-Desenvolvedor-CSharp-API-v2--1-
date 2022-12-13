@@ -7,6 +7,25 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Domain\Entities\NewFolder\**" />
+    <Compile Remove="Domain\Enumerators\NewFolder\**" />
+    <Compile Remove="Domain\Language\NewFolder\**" />
+    <Compile Remove="Domain\NewFolder\**" />
+    <Content Remove="Domain\Entities\NewFolder\**" />
+    <Content Remove="Domain\Enumerators\NewFolder\**" />
+    <Content Remove="Domain\Language\NewFolder\**" />
+    <Content Remove="Domain\NewFolder\**" />
+    <EmbeddedResource Remove="Domain\Entities\NewFolder\**" />
+    <EmbeddedResource Remove="Domain\Enumerators\NewFolder\**" />
+    <EmbeddedResource Remove="Domain\Language\NewFolder\**" />
+    <EmbeddedResource Remove="Domain\NewFolder\**" />
+    <None Remove="Domain\Entities\NewFolder\**" />
+    <None Remove="Domain\Enumerators\NewFolder\**" />
+    <None Remove="Domain\Language\NewFolder\**" />
+    <None Remove="Domain\NewFolder\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
 	<PackageReference Include="Dapper" Version="2.0.35" />
 	<PackageReference Include="Microsoft.Data.Sqlite" Version="3.1.6" />
@@ -32,13 +51,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Application\Commands\Requests\" />
-    <Folder Include="Application\Commands\Responses\" />
-    <Folder Include="Application\Handlers\" />
-    <Folder Include="Application\Queries\Requests\" />
-    <Folder Include="Application\Queries\Responses\" />
-    <Folder Include="Domain\Entities\" />
-    <Folder Include="Domain\Enumerators\" />
     <Folder Include="Domain\Language\" />
     <Folder Include="Infrastructure\Database\CommandStore\Requests\" />
     <Folder Include="Infrastructure\Database\CommandStore\Responses\" />

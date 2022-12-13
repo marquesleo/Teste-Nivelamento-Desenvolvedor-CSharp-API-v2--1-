@@ -5,7 +5,7 @@ namespace Questao5.Infrastructure.Sqlite
 {
     public class DatabaseBootstrap : IDatabaseBootstrap
     {
-        private readonly DatabaseConfig databaseConfig;
+        protected readonly DatabaseConfig databaseConfig;
 
         public DatabaseBootstrap(DatabaseConfig databaseConfig)
         {
@@ -15,7 +15,7 @@ namespace Questao5.Infrastructure.Sqlite
         public void Setup()
         {
             using var connection = new SqliteConnection(databaseConfig.Name);
-
+           
             var table = connection.Query<string>("SELECT name FROM sqlite_master WHERE type='table' AND (name = 'contacorrente' or name = 'movimento' or name = 'idempotencia');");
             var tableName = table.FirstOrDefault();
             if (!string.IsNullOrEmpty(tableName) && (tableName == "contacorrente" || tableName == "movimento" || tableName == "idempotencia"))
@@ -36,7 +36,7 @@ namespace Questao5.Infrastructure.Sqlite
                 "tipomovimento TEXT(1) NOT NULL," +
                 "valor REAL NOT NULL," +
                 "CHECK(tipomovimento in ('C', 'D')), " +
-                "FOREIGN KEY(idcontacorrente) REFERENCES contacorrente(idcontacorrente) " +
+                "FOREIGN KEY(idcontacorrente) REFERENCES contacorrente(numero) " +
                 ");");
 
             connection.Execute("CREATE TABLE idempotencia (" +
